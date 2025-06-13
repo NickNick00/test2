@@ -1,3 +1,5 @@
+Fluent = loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/NickNick00/test2/refs/heads/main/README.md"))()
+"))()
 
 local Window = Fluent:CreateWindow({
     Title = "Kyuzzy " .. Fluent.Version,
